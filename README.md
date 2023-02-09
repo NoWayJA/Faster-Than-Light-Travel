@@ -1,14 +1,6 @@
 # Faster-Than-Light-Travel
 This repository details how the holographic projection universe concept can be used to explore the idea of faster than light travel.
 
-Initially this repository will contain basic concepts. Following peer validation, this repository can be used for the mathematics and code to prove / disprove the concepts.
-
-Epics will be inserted here...Epics will be inserted here...Epics will be inserted here...
-
-
-# Faster-Than-Light-Travel
-This repository details how the holographic projection universe concept can be used to explore the idea of faster than light travel.
-
 Initially this repository will contain basic concepts. Given peer validation, this repository could be used for the mathematics and code to prove / disprove the concepts.
 
 Premise: Given conservation of information, the surface area of a bound / finite Universe contains the same information as the volume of the Universe. This leads limitations of density of information in the Universe, which has been mathematically modelled.
